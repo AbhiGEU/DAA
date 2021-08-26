@@ -31,6 +31,7 @@ int JP(int arr[], int x, int n, int *k)
     return -1;
 }
 
+
 int main()
 {
     int i,n,j,key,num,k;

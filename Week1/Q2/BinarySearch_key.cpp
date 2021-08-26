@@ -16,7 +16,6 @@ int BS(int arr[], int l, int r, int key, int *k)
 
         else
         r = m-1;
-
     }
     return -1;
 }

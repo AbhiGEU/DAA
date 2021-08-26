@@ -34,6 +34,5 @@ int main()
         cout<<"Not Present"<<" "<<k<<endl;
     }
     
-    
     return 0;
 }
