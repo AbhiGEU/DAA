@@ -21,6 +21,7 @@ int BS(int arr[], int l, int r, int key, int **k)
     }
     return -1;
 }
+
 int ES(int arr[], int x, int n, int *k)
 {
     (*k)++;
