@@ -1,0 +1,3 @@
+max element is:a-3
+No Duplicates Present
+max element is:l-4
